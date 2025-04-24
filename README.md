@@ -1,6 +1,6 @@
 # Parsimonious_Convolution
 
-简约卷积是我们在论文“<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320305252">Wang Zi-Rui, Du Jun. Joint architecture and knowledge distillation in CNN for Chinese text recognition[J]. Pattern Recognition, 2021, 111: 107722.</p>”中提出的一种低存储、低计算量卷积模块，我们用它直接替换文本/文字识别网络中的常规卷积。特别地，简约卷积模块可以只通过一个参数进行大小调节。如果与知识蒸馏相配合，可以获得一个与大网络性能相当的小模型。
+简约卷积是我们在论文“<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320305252">Wang, Zi-Rui, and Jun Du. "Joint architecture and knowledge distillation in CNN for Chinese text recognition." Pattern Recognition 111 (2021): 107722.</p>”中提出的一种低存储、低计算量卷积模块，我们用它直接替换文本/文字识别网络中的常规卷积。特别地，简约卷积模块可以只通过一个参数进行大小调节。如果与知识蒸馏相配合，可以获得一个与大网络性能相当的小模型。
 
 &emsp;它的迷人结构如下图所示：
 <div align=center>

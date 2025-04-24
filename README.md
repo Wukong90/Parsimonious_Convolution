@@ -14,13 +14,4 @@
 </div>
 
 # 引用
-如果你使用了我们的代码或从事的研究与我们的内容有关,请使用如下引用:
-@article{wang2021joint,
-  title={Joint architecture and knowledge distillation in CNN for Chinese text recognition},
-  author={Wang, Zi-Rui and Du, Jun},
-  journal={Pattern Recognition},
-  volume={111},
-  pages={107722},
-  year={2021},
-  publisher={Elsevier}
-}
+如果你使用了我们的代码或从事的研究与我们的内容有关,请引用我们的工作.

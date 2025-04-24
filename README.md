@@ -5,5 +5,5 @@
 
 它的迷人结构如下图所示：
 <div align=center>
-<img src=https://github.com/Wukong90/Parsimonious_Convolution/tree/main/Par_conv.png>
+<img src=[https://github.com/Wukong90/Parsimonious_Convolution/blob/main/Par_conv.png]>
 </div>
